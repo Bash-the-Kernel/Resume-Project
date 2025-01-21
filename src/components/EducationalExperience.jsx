@@ -1,6 +1,6 @@
 
 import { useState } from 'react'
-import '/home/jemcwilliams/Resume-Project/src/styles/App.css'
+import './../styles/App.css'
 
 function EducationalExperience() {
   const [editMode, setEditMode] = useState(true);
